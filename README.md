@@ -1,1 +1,1 @@
-I made my wbsite about a company that I have been following heavy over the past months. I put some info together to show a bit of my conviction on the stock. 
+I used internal CSS, because I am only working with a single page. Once I identified that I was using "sytle", I was able to pick what color I wanted my background, heading text, and my paragraph text. Then I made sure that I close out style by using </style>.
